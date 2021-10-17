@@ -162,8 +162,8 @@ def send_button():
                         
                     message_sent = 0
                     for i in range(0, int(count)):
-                    #     url = "https://www.fast2sms.com/dev/bulk"
-                    #     api = "b4OD5dRG2lNTo9SpcjPhCJKaq8ztAkxYHZQ3VByfieE6smIWU1xQlug3rsPv0bBF8Iqyf9AiHnaOjdmz"
+                    #     url = "website link"
+                    #     api = "add your api"
 
                     #     querystring ={
                     #         "authorization": api,
@@ -209,3 +209,7 @@ Theme_changer(
 
 
 win.mainloop()
+
+
+# Created and Programmed by Rihan Ahmed
+
